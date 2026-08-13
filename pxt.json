@@ -1,0 +1,21 @@
+{
+    "name": "pxt-random-game-blocks",
+    "version": "0.0.1",
+    "description": "Custom blocks providing custom tile mechanics, restricted sprite jumping physics, and trap layers.",
+    "dependencies": {
+        "core": "*",
+        "device": "*",
+        "scene": "*",
+        "sprite": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ]
+}
