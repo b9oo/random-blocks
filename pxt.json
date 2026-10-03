@@ -3,10 +3,7 @@
     "version": "0.0.1",
     "description": "Custom blocks providing custom tile mechanics, restricted sprite jumping physics, and trap layers.",
     "dependencies": {
-        "core": "*",
-        "device": "*",
-        "scene": "*",
-        "sprite": "*"
+        "device": "*"
     },
     "files": [
         "README.md",
@@ -17,5 +14,6 @@
     ],
     "supportedTargets": [
         "arcade"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
